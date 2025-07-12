@@ -9,4 +9,4 @@ To understand more about how fraudulent and valid transactions differ, we explor
 
 Finally, we generate a correlation matrix, which shows how all the features in the dataset are related to each other. We use a heatmap to visualize these correlations. This step helps us see if any of the features are strongly linked, which can influence which features we choose to train our model with. Strong correlations might show us patterns, while weak or no correlation could mean a feature is less useful.
 
-Each of these steps—understanding the data, analyzing distributions, and exploring relationships between variables—helps us prepare for the next phase: training a machine learning model that can learn to recognize fraud. With this strong foundation, we can then move on to handling the imbalance, building predictive models, and evaluating how well our system detects fraud.
+Each of these steps—understanding the data, analyzing distributions, and exploring relationships between variables—helps us to recognize fraud.
